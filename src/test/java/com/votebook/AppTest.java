@@ -1,4 +1,4 @@
-package com.voteboot;
+package com.votebook;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
